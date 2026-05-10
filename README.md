@@ -181,6 +181,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Agents
 
