@@ -281,6 +281,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
+- [videos.social](https://videos.social/?utm_source=ricleedo-awesome-generative-ai&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos.
 
 ### Animation
 
